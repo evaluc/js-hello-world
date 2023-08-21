@@ -4,7 +4,9 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log(10 + 5, 7);
+console.log('"Four score and seven years ago..."');
+console.log("Hello, World!");
 
 /*  
 Next, PLAY! 
