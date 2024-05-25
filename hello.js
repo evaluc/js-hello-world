@@ -4,9 +4,8 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log(10 + 5, 7);
-console.log('"Four score and seven years ago..."');
-console.log("Hello, World!");
+console.log("What makes up a pizza?", '"Crust" + "Sauce" + "Cheese" + "Toppings".');
+console.log("Isn't that simple?")
 
 /*  
 Next, PLAY! 
